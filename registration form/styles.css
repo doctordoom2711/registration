@@ -1,0 +1,24 @@
+h1{
+    font-size: 25px;
+    color: brown;
+    border: 5px solid black;
+    
+ 
+   
+    border-width: 5px;
+   
+    position: relative;
+   
+   width: 136px;
+border-radius: 20px;
+background-color: lightblue;
+transition: ease-in 0.25s;
+justify-content: center;
+align-items: center;
+cursor: pointer;
+   
+}
+
+h1:hover{
+    background-color: navajowhite;
+}
